@@ -1,10 +1,9 @@
 [project]
-name = "python"
+name = "mini-backend"
 version = "0.1.0"
-description = "Add your description here"
+description = "A small FastAPI backend built from scratch to practice for job interviews."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "fastapi[standard]>=0.142.2",
-    "uvicorn>=0.54.0",
 ]
